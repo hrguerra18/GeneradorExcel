@@ -1,0 +1,58 @@
+C:\Users\HP\Desktop\Proyecto Anya\PAYMETF\bin\Debug\PAYMETF.exe.config
+C:\Users\HP\Desktop\Proyecto Anya\PAYMETF\bin\Debug\PAYMETF.exe
+C:\Users\HP\Desktop\Proyecto Anya\PAYMETF\bin\Debug\PAYMETF.pdb
+C:\Users\HP\Desktop\Proyecto Anya\PAYMETF\obj\Debug\PAYMETF.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Proyecto Anya\PAYMETF\obj\Debug\PAYMETF.Form1.resources
+C:\Users\HP\Desktop\Proyecto Anya\PAYMETF\obj\Debug\PAYMETF.Properties.Resources.resources
+C:\Users\HP\Desktop\Proyecto Anya\PAYMETF\obj\Debug\PAYMETF.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Proyecto Anya\PAYMETF\obj\Debug\PAYMETF.exe
+C:\Users\HP\Desktop\Proyecto Anya\PAYMETF\obj\Debug\PAYMETF.pdb
+C:\Users\HP\Desktop\Proyecto Anya\PAYMETF\obj\Debug\PAYMETF.FrmAbono.resources
+C:\Users\HP\Desktop\Proyecto Anya\PAYMETF\obj\Debug\PAYMETF.FrmCartera.resources
+C:\Users\HP\Desktop\Proyecto Anya\PAYMETF\obj\Debug\PAYMETF.FrmInformacionUsuario.resources
+C:\Users\HP\Desktop\Proyecto Anya\PAYMETF\obj\Debug\PAYMETF.FrmRegistrar.resources
+C:\Users\HP\Desktop\Proyecto Anya\PAYMETF\bin\Debug\BLL.dll
+C:\Users\HP\Desktop\Proyecto Anya\PAYMETF\bin\Debug\ENTITY.dll
+C:\Users\HP\Desktop\Proyecto Anya\PAYMETF\bin\Debug\BLL.pdb
+C:\Users\HP\Desktop\Proyecto Anya\PAYMETF\bin\Debug\ENTITY.pdb
+C:\Users\HP\Desktop\Proyecto Anya\PAYMETF\obj\Debug\PAYMETF.csproj.CopyComplete
+C:\Users\HP\Desktop\Proyecto Anya\PAYMETF\bin\Debug\DAL.dll
+C:\Users\HP\Desktop\Proyecto Anya\PAYMETF\bin\Debug\Infraestructura.dll
+C:\Users\HP\Desktop\Proyecto Anya\PAYMETF\bin\Debug\ClosedXML.dll
+C:\Users\HP\Desktop\Proyecto Anya\PAYMETF\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\HP\Desktop\Proyecto Anya\PAYMETF\bin\Debug\ExcelNumberFormat.dll
+C:\Users\HP\Desktop\Proyecto Anya\PAYMETF\bin\Debug\DAL.pdb
+C:\Users\HP\Desktop\Proyecto Anya\PAYMETF\bin\Debug\Infraestructura.pdb
+C:\Users\HP\Desktop\Proyecto Anya\PAYMETF\bin\Debug\ClosedXML.pdb
+C:\Users\HP\Desktop\Proyecto Anya\PAYMETF\bin\Debug\ClosedXML.xml
+C:\Users\HP\Desktop\Proyecto Anya\PAYMETF\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\HP\Desktop\Proyecto Anya\PAYMETF\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\PAYMETF\bin\Debug\PAYMETF.exe.config
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\PAYMETF\bin\Debug\PAYMETF.exe
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\PAYMETF\bin\Debug\PAYMETF.pdb
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\PAYMETF\bin\Debug\BLL.dll
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\PAYMETF\bin\Debug\ENTITY.dll
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\PAYMETF\bin\Debug\DAL.dll
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\PAYMETF\bin\Debug\Infraestructura.dll
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\PAYMETF\bin\Debug\ClosedXML.dll
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\PAYMETF\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\PAYMETF\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\PAYMETF\bin\Debug\BLL.pdb
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\PAYMETF\bin\Debug\ENTITY.pdb
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\PAYMETF\bin\Debug\DAL.pdb
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\PAYMETF\bin\Debug\Infraestructura.pdb
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\PAYMETF\bin\Debug\ClosedXML.pdb
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\PAYMETF\bin\Debug\ClosedXML.xml
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\PAYMETF\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\PAYMETF\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\PAYMETF\obj\Debug\PAYMETF.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\PAYMETF\obj\Debug\PAYMETF.FrmAbono.resources
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\PAYMETF\obj\Debug\PAYMETF.FrmCartera.resources
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\PAYMETF\obj\Debug\PAYMETF.Form1.resources
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\PAYMETF\obj\Debug\PAYMETF.FrmInformacionUsuario.resources
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\PAYMETF\obj\Debug\PAYMETF.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\PAYMETF\obj\Debug\PAYMETF.FrmRegistrar.resources
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\PAYMETF\obj\Debug\PAYMETF.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\PAYMETF\obj\Debug\PAYMETF.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\PAYMETF\obj\Debug\PAYMETF.exe
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\PAYMETF\obj\Debug\PAYMETF.pdb
